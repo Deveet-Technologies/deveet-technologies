@@ -1,6 +1,6 @@
 
 <h3>DIGIΓΔL AGENCY / ITALY ROME</h3>
-<p>👋 Hello guys! We are the @Deveet ! <br> we are a team of developers, designers, marketers and others who accompany companies in digital growth."<br>This is the simple tech profile for management and repository assets <br> See all other informations on official website: <a href="https://deveet.com">deveet.com</a></p>
+<p>👋 Hello guys! We are the @Deveet-Technologies ! <br> we are a team of developers, designers, marketers and others who accompany companies in digital growth."<br>This is the simple tech profile for management and repository assets <br> See all other informations on official website: <a href="https://deveet.com">deveet.com</a></p>
 
 <hr>
   

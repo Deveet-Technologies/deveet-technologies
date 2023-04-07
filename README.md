@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat-square&logo=Unity&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Engine-Cordova-informational?style=flat-square&logo=Apache-Cordova&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Semantic-Web-informational?style=flat-square&logo=Semantic-Web&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Deploy-Cyclic-informational?style=flat-square&logo=Breaker&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Tool-VScode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat-square&logo=Figma&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Tool-Adobe-informational?style=flat-square&logo=Adobe&logoColor=white&color=aqua)
